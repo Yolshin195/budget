@@ -22,3 +22,11 @@
     - created_at
     - value
     - description
+
+Методы
+1. User
+    - Зарегистрироваться
+    - Вход
+2. ExpenseTransaction
+    - Создать
+    - Получить список
